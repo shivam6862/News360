@@ -83,7 +83,7 @@ Whether it's breaking news, politics, sports, entertainment, or technology, this
 
 So, whether you're a news junkie or just someone who wants to stay informed about the world around you, this app is the perfect tool for you. Stay tuned for more updates and features as we continue to develop and improve the app.<br/>
 
-<a href="https://github.com/shivam6862/"><img src="https://github.com/shivam6862/News360/blob/master/Frontend/public/News360.png" style="border-radius:12px"></a>
+<a href="https://github.com/shivam6862/"><img src="https://github.com/shivam6862/News360/blob/master/public/News360.png" style="border-radius:12px"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
