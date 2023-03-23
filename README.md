@@ -7,9 +7,9 @@
    complete news solutions enabling users to read news.
     <br />
     <br />
-    <a href="https://github.com/shivam6862/Quiz-App/issues">Report Bug</a>
+    <a href="https://github.com/shivam6862/News360/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shivam6862/Quiz-App/issues">Request Feature</a>
+    <a href="https://github.com/shivam6862/News360/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,7 +56,7 @@ So as to run our project locally, you need to follow the steps below.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/shivam6862/Quiz-App
+   git clone https://github.com/shivam6862/News360.git
    ```
 2. Install NPM packages on both backend and frontend folders
    ```sh
@@ -83,7 +83,7 @@ Whether it's breaking news, politics, sports, entertainment, or technology, this
 
 So, whether you're a news junkie or just someone who wants to stay informed about the world around you, this app is the perfect tool for you. Stay tuned for more updates and features as we continue to develop and improve the app.<br/>
 
-<a href="https://github.com/shivam6862/"><img src="https://github.com/shivam6862/Quiz-App/blob/master/Frontend/public/QuizApp.png" style="border-radius:12px"></a>
+<a href="https://github.com/shivam6862/"><img src="https://github.com/shivam6862/News360/blob/master/Frontend/public/News360.png" style="border-radius:12px"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,9 +106,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-FormFrenzy - [@shivam-kumar](https://www.linkedin.com/in/shivam-kumar-14701b249/)
+News360 - [@shivam-kumar](https://www.linkedin.com/in/shivam-kumar-14701b249/)
 
-Project Link: [https://github.com/shivam6862/Quiz-App](https://github.com/shivam6862/Quiz-App)
+Project Link: [https://github.com/shivam6862/News360](https://github.com/shivam6862/News360)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
