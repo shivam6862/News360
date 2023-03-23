@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Home from "./components/home/Home";
-import Pagenotfound from "./components/pageNotFound/Pagenotfound";
+import Pagenotfound from "./components/pageNotFound/PageNotFound";
 
 import Stroies from "./components/stories/Stroies";
 import Sports from "./components/sports/Sports";

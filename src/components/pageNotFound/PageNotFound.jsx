@@ -1,5 +1,5 @@
 import React from "react";
-import classes from "./Pagenotfound.module.css";
+import classes from "./PageNotFound.module.css";
 
 const Pagenotfound = () => {
   return (
