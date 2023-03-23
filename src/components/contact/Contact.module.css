@@ -1,0 +1,23 @@
+.contact {
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  z-index: 100;
+}
+
+.copyright {
+  font-size: 22px;
+  color: rgb(255, 255, 255);
+}
+
+@media (max-width: 600px) {
+  .copyright {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 425px) {
+  .copyright {
+    font-size: 12px;
+  }
+}

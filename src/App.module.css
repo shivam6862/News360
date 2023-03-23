@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital@1&display=swap");
+
+.App {
+  background-color: #ffffff;
+  margin: 0px;
+  padding: 0px;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+@media (max-width: 450px) {
+  .App {
+    width: auto;
+  }
+}
+
+* {
+  font-family: "Ibarra Real Nova", serif;
+}

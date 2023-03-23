@@ -1,0 +1,40 @@
+.button {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid rgb(22, 65, 65);
+  color: white;
+  background-color: rgba(255, 0, 0, 0.7);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.26);
+  border-radius: 15px;
+  cursor: pointer;
+  white-space: nowrap;
+  z-index: 100;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  -moz-box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button:hover,
+.button:active {
+  background: #495670;
+  color: black;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
+}
+
+@media (max-width: 250px) {
+  .button {
+    padding: 0.4rem 0.8rem;
+  }
+}
+@media (max-width: 440px) {
+  .button {
+    padding: 0.4rem 1rem;
+  }
+}

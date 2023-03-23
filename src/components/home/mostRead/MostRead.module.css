@@ -1,0 +1,99 @@
+.heading {
+  height: 35px;
+  margin: 30px 0 0px 1%;
+}
+.heading h1 {
+  align-items: center;
+  background: #fb4c35;
+  color: #fff;
+  display: flex;
+  font-size: 14px;
+  font-weight: 400;
+  height: 35px;
+  justify-content: center;
+  text-align: center;
+  width: 130px;
+}
+.datas {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding: 0.1rem;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  margin: 15px 15px 15px 0;
+  box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.category {
+  background-color: purple;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  padding: 5px 10px;
+  text-transform: uppercase;
+}
+.category1 {
+  background: linear-gradient(90deg, #fb4c35 50%, #000 0);
+  background-position: 100% 100%;
+  background-size: 200% 100%;
+  border-left: 5px solid #fb4c35;
+  cursor: pointer;
+  display: block;
+  transition: all 0.5s ease-out;
+  width: auto;
+}
+
+.category1 span {
+  color: #fff;
+  text-transform: capitalize;
+  letter-spacing: 0;
+}
+.category1:hover {
+  background-position: left bottom;
+}
+.category1 span:hover {
+  color: #fff;
+}
+
+.title {
+  font-size: 18px;
+  margin: 0;
+  padding: 5px 0 0 10px;
+  font-weight: 500;
+}
+
+.description {
+  font-size: 14px;
+  margin: 0;
+  padding: 5px 0 10px 10px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 880px) {
+  .title {
+    font-size: 15px;
+  }
+  .description {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .box {
+    width: 100%;
+  }
+  .title {
+    font-size: 18px;
+  }
+  .description {
+    font-size: 15px;
+  }
+}
